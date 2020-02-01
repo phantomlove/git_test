@@ -18,6 +18,7 @@
 int main()
 {
 	printf("hello git!\n");
+	printf("add new number!\n");
 	return 0;
 }
 
